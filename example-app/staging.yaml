@@ -16,6 +16,8 @@ spec:
       values: |-
         environment: staging
 
+        tag: v0.0.1
+
         ingress:
           enabled: true
           host: app-staging.k8s.lbogdan.ro
