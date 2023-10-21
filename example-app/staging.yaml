@@ -16,7 +16,7 @@ spec:
       values: |-
         environment: staging
 
-        tag: v0.0.1
+        tag: v0.0.10
 
         ingress:
           enabled: true
